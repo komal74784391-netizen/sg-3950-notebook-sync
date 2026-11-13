@@ -1,2 +1,4 @@
-# sg-3950-notebook-sync
-Utility scripts for syncing research notebooks between machines
+# Notebook and BibTeX Sync Utilities
+
+Scripts for syncing research notebooks and BibTeX libraries between machines.
+Unrelated to the publication repositories.
